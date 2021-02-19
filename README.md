@@ -1,4 +1,4 @@
-### :white_heart: *larissa benedet* :white_heart:
+### <center> :white_heart: *larissa benedet* :white_heart: </center>
 <p align="center"/> <img src="https://64.media.tumblr.com/4d6fb25b817d787557310fd9f855e05b/tumblr_ol823iKXBP1u4eu45o1_400.gifv"> </p>
 
 <!--
