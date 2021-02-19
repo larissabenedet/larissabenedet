@@ -6,6 +6,7 @@
 
 <p align="right"/> 
 <img src="https://steamuserimages-a.akamaihd.net/ugc/782988357732661864/C0C0C893927A3F5E5603F7EE520B90F88AA1E6BA/" width="350"> 
+<br>
 estou aprendendo <b>HTML/CSS</b> e <b>Javascript</b>,<br> focada em desenvolvimento front-end. 
 </p>
 
