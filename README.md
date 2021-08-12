@@ -9,7 +9,7 @@
 <img src="https://i.imgur.com/mTYCYlN.gif?noredirect" width="380"> 
 <br>
 ✦ front-end developer, brazil/sc ✦ <br>
-<strong>HTML/SASS, Javascript, React, PHP, MYSQL</strong>
+<strong>HTML/SASS, Javascript, React, Python, MYSQL</strong>
 </p>
 
 
