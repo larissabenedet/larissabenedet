@@ -1,18 +1,11 @@
 
 
- <h1 align="right"> ✦ welcome to my github profile! :blush: </h1>
-
-<img src="https://pa1.narvii.com/6968/360596b1c90fc787fb17a3325f6994c2900b8488r1-500-268_hq.gif" width="380" align="left">
-
-
-<p align="right"/> 
-<img src="https://i.imgur.com/mTYCYlN.gif?noredirect" width="380"> 
-<br>
-✦ front-end developer, brazil/sc ✦ <br>
-<strong>HTML/SASS, Javascript, React, Python, MYSQL</strong>
-</p>
-
-
-<!--
-**larissabenedet/larissabenedet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ <h1 align="right"> :sparkles: welcome to my github profile! :sparkles:	 </h1>
+<div align="right">
+ <p> Larissa, Brazilian and Software engineering student, who loves front-end development and currently works with React.</p>
+</div>
+<div align="right">
+  <a href="https://github.com/larissabenedet">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissabenedet&show_icons=true&theme=omni&include_all_commits=true&count_private=true&hide=contribs,issues"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissabenedet&layout=compact&langs_count=7&theme=omni"/>
+</div>
