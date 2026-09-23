@@ -7,8 +7,8 @@
 </div>
 
 <p>
-  <strong>Senior Front-end Engineer ✨</strong> <br>
-  Crafting pixel-perfect interfaces, scalable design systems, and a bit of front-end magic straight from Florianópolis, Brazil. 👩🏼‍💻
+  <strong>Senior Software Engineer ✨</strong> <br>
+  Always focused on solving the right problem, not just shipping a pretty screen. 👩🏼‍💻
 </p>
 
 ```typescript
